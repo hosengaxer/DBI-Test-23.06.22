@@ -1,4 +1,4 @@
-<h1 style="color: red;">DBI Übung für 23.06.22</h1>
+# DBI Übung für 23.06.2022
 Übung für den DBI Test am 23.06.22
 
 
