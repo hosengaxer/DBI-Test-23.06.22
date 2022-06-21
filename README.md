@@ -2,8 +2,8 @@
 Übung für den DBI Test am 23.06.22
 
 
-
-"<!doctype html>
+```html
+<!doctype html>
 <html lang="en">
   <head>
     <title>DBI Test ( best practice )</title>
@@ -122,4 +122,5 @@
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.5/dist/umd/popper.min.js"  crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.min.js" crossorigin="anonymous"></script>
   </body>
-</html>"
+  ```
+</html>
