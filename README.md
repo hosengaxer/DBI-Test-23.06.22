@@ -1,4 +1,4 @@
-# DBI Übung für 23.06.2022
+# DBI Übung für 23.06.2022 ( best practice )
 Übung für den DBI Test am 23.06.22
 
 
